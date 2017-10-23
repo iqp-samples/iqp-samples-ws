@@ -1,4 +1,4 @@
-# <img src="https://github.com/iqp-samples/iqp-samples-ws/raw/master/logo.png" alt="iQuipsys Logo" style="max-width:100px"> <br/> Workspace for iQuipsys Positron Samples
+# <img src="https://github.com/iqp-samples/iqp-samples-ws/raw/master/logo.png" alt="iQuipsys Logo" width="100px" height="100px"> <br/> Workspace for iQuipsys Positron Samples
 
 This is a workspace for [IQuipsys Positron](http://www.iquipsys.com) samples.
 It enables build, test, and release across the following projects:
